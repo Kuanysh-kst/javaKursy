@@ -14,6 +14,7 @@ public class SomeMetods {
     // то есть если провести операцию умножения к прмеру
     // 1000000*1000000 результирующее число выйдет за пределы
     // диапазона примитива int в java
+    
     private static void methodFor(int number) {
 
         for (int i = 0; i < number; i++) {
